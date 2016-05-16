@@ -1,5 +1,7 @@
 [![Code Climate](https://codeclimate.com/github/adillera/quick_codes/badges/gpa.svg)](https://codeclimate.com/github/adillera/quick_codes)
 [![Test Coverage](https://codeclimate.com/github/adillera/quick_codes/badges/coverage.svg)](https://codeclimate.com/github/adillera/quick_codes/coverage)
+[![Issue Count](https://codeclimate.com/github/adillera/quick_codes/badges/issue_count.svg)](https://codeclimate.com/github/adillera/quick_codes)
+
 # QuickCodes
 
 Quick codes overloads Ruby classes with additional functionalities that,
