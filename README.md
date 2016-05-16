@@ -23,6 +23,8 @@ Or install it yourself as:
 ### 0.1.0
   * Initial upload YEY!
   * Implemented stdevp for arrays.
+
+### 0.1.1
   * Implemented merge_hashes_using_key for arrays.
 
 ## Usage
