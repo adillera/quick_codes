@@ -22,7 +22,8 @@ Or install it yourself as:
 ## Version Updates
 ### 0.1.0
   * Initial upload YEY!
-  * Implemented stdevp for arrays
+  * Implemented stdevp for arrays.
+  * Implemented merge_hashes_using_key for arrays.
 
 ## Usage
 
