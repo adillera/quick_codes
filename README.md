@@ -1,6 +1,7 @@
-[![Code Climate](https://codeclimate.com/github/adillera/quick_codes/badges/gpa.svg)](https://codeclimate.com/github/adillera/quick_codes)
-[![Test Coverage](https://codeclimate.com/github/adillera/quick_codes/badges/coverage.svg)](https://codeclimate.com/github/adillera/quick_codes/coverage)
+[![Gem Version](https://badge.fury.io/rb/quick_codes.svg)](https://badge.fury.io/rb/quick_codes)
 [![Issue Count](https://codeclimate.com/github/adillera/quick_codes/badges/issue_count.svg)](https://codeclimate.com/github/adillera/quick_codes)
+[![Test Coverage](https://codeclimate.com/github/adillera/quick_codes/badges/coverage.svg)](https://codeclimate.com/github/adillera/quick_codes/coverage)
+[![Code Climate](https://codeclimate.com/github/adillera/quick_codes/badges/gpa.svg)](https://codeclimate.com/github/adillera/quick_codes)
 
 # QuickCodes
 
