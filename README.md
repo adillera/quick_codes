@@ -35,6 +35,9 @@ Or install it yourself as:
 ### 0.1.2
   * Implemented ave to get the average of a group of numbers for arrays.
 
+### 0.1.3
+  * Ave and stdevp also accessible under Math module.
+
 ## Usage
 
 Installing Quick codes would add the functionalities to your Ruby
