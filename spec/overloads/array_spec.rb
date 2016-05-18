@@ -1,6 +1,19 @@
 require 'spec_helper'
 
 describe Array do
+  describe 'ave' do
+    it 'shold return the average of an array of numbers' do
+      values = [2, 2, 2, 2, 2]
+      expected = 2
+
+      expect(values.ave).to eq expected
+    end
+
+    it 'should return false if array is blank' do
+      expect([].ave).to be_falsy
+    end
+  end
+
   describe 'stdevp' do
     it 'should return the correct population standard deviation' do
       expected = 2.983 # Rounded to 3 decimal places

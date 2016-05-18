@@ -31,6 +31,9 @@ Or install it yourself as:
 ### 0.1.1
   * Implemented merge_hashes_using_key for arrays.
 
+### 0.1.2
+  * Implemented ave to get the average of a group of numbers for arrays.
+
 ## Usage
 
 Installing Quick codes would add the functionalities to your Ruby

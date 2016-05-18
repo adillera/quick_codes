@@ -1,12 +1,22 @@
 class Array
+  # Average of multiple numbers
+  def ave
+    return false unless self.length > 0
+
+    arr = self
+
+    arr.inject(:+).to_f / arr.length.to_f
+  end
+
   # For reference:
   # https://www.mathsisfun.com/data/standard-deviation-formulas.html
   # Population standard deviation
   def stdevp
     return false unless self.length > 0
+
     arr = self
     # Step 1: Get the mean
-    mean = arr.inject(:+).to_f / arr.length.to_f
+    mean = arr.ave
 
     # Step 2: Subtract the mean and square the result
     step_2 = arr.reduce([]) do |i, n|
